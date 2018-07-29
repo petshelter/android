@@ -18,4 +18,31 @@
     <string name="you_are_logged_in">You are logged in</string>
     <string name="sign_out">Sign out</string>
     <string name="title_activity_signed_in">SignedInActivity</string>
+
+    <!--Species-->
+    <string name="cat">Gato</string>
+    <string name="dog">Cachorro</string>
+
+    <!--Sex-->
+    <string name="animal_male">Macho</string>
+    <string name="animal_female">Femea</string>
+
+    <!--Size-->
+    <string name="small">Pequeno</string>
+    <string name="medium">Medio</string>
+    <string name="large">Grande</string>
+
+    <string name="name_optional_hint">Nome (opcional)</string>
+    <string name="species_label">Especie:</string>
+    <string name="register">Cadastrar</string>
+    <string name="sex_label">Sexo:</string>
+    <string name="animal_size_label">Porte:</string>
+    <string name="age_months_hint">Idade (meses)</string>
+    <string name="age_required">Idade obrigatória</string>
+    <string name="invalid_format">Formato inválido</string>
+    <string name="registering">Cadastrando…</string>
+    <string name="animal_register_success">Animal cadastrado com sucesso.</string>
+    <string name="animal_register_fail">Erro ao salvar, tente novamente mais tarde.</string>
+    <string name="new_animal">Novo Animal</string>
+    <string name="list_animals">Listar animais</string>
 </resources>

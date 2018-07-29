@@ -27,5 +27,9 @@ class SignedInActivity : AppCompatActivity() {
                 finish()
             }
         }
+
+        new_animal_button.setOnClickListener {
+            startActivity<AnimalRegisterActivity>()
+        }
     }
 }
